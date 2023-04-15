@@ -66,7 +66,7 @@ Selanjutnya adalah pengujian program dengan *test case* yang sudah ditentukan.
 ![tes12](https://user-images.githubusercontent.com/92706710/232246930-2f42f82b-d9be-4955-8ca0-2ff2976305e7.jpg)
 2. Test 2 : Melakukan *delete item* dari keranjang
 ![tes21](https://user-images.githubusercontent.com/92706710/232246960-b659d8fe-563a-4e3a-9c68-f877fa685dfa.jpg)
-3. Test 3 : Melakukan *reset transaction*
+3. Test 3 : Melakukan *reset transaction* pada keranjang
 ![tes3](https://user-images.githubusercontent.com/92706710/232246918-e6c730ad-33a0-4417-b164-df580ae22e49.jpg)
 4. Test 4 : Melakukan *check out* dari keranjang
 ![tes41](https://user-images.githubusercontent.com/92706710/232246962-a97f9539-842e-492d-abb6-7669a37e534f.jpg)
